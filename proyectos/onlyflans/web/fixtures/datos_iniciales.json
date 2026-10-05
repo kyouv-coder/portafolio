@@ -1,0 +1,133 @@
+[
+{
+  "model": "web.flan",
+  "pk": 1,
+  "fields": {
+    "flan_uuid": "a1b2c3d4-1111-4a1b-9c1d-000000000001",
+    "name": "Flan de Caramelo",
+    "description": "Nuestro clásico flan de caramelo, cremoso y con un toque casero.",
+    "image_url": "https://images.unsplash.com/photo-1587314168485-3236d6710814",
+    "slug": "flan-caramelo",
+    "is_private": false,
+    "price": 3000
+  }
+},
+{
+  "model": "web.flan",
+  "pk": 2,
+  "fields": {
+    "flan_uuid": "a1b2c3d4-2222-4a1b-9c1d-000000000002",
+    "name": "Flan de Vainilla",
+    "description": "Suave flan de vainilla con esencia natural.",
+    "image_url": "https://images.unsplash.com/photo-1541599468348-e96984315921",
+    "slug": "flan-vainilla",
+    "is_private": false,
+    "price": 3990
+  }
+},
+{
+  "model": "web.flan",
+  "pk": 3,
+  "fields": {
+    "flan_uuid": "a1b2c3d4-3333-4a1b-9c1d-000000000003",
+    "name": "Flan de Chocolate",
+    "description": "Flan intenso de chocolate para los amantes del cacao.",
+    "image_url": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c",
+    "slug": "flan-chocolate",
+    "is_private": false,
+    "price": 3000
+  }
+},
+{
+  "model": "web.flan",
+  "pk": 4,
+  "fields": {
+    "flan_uuid": "a1b2c3d4-4444-4a1b-9c1d-000000000004",
+    "name": "Flan de Coco",
+    "description": "Flan tropical con ralladura de coco fresco.",
+    "image_url": "https://images.unsplash.com/photo-1519676867240-f03562e64548",
+    "slug": "flan-coco",
+    "is_private": false,
+    "price": 3200
+  }
+},
+{
+  "model": "web.flan",
+  "pk": 5,
+  "fields": {
+    "flan_uuid": "a1b2c3d4-5555-4a1b-9c1d-000000000005",
+    "name": "Flan Especial de Temporada",
+    "description": "Edición limitada solo para clientes VIP.",
+    "image_url": "https://images.unsplash.com/photo-1488477181946-6428a0291777",
+    "slug": "flan-especial-temporada",
+    "is_private": true,
+    "price": 3750
+  }
+},
+{
+  "model": "web.flan",
+  "pk": 6,
+  "fields": {
+    "flan_uuid": "a1b2c3d4-6666-4a1b-9c1d-000000000006",
+    "name": "Flan Gourmet de Café",
+    "description": "Receta secreta con infusión de café premium.",
+    "image_url": "https://images.unsplash.com/photo-1517686469429-8bdb88b9f907",
+    "slug": "flan-gourmet-cafe",
+    "is_private": true,
+    "price": 3500
+  }
+},
+{
+  "model": "web.flan",
+  "pk": 7,
+  "fields": {
+    "flan_uuid": "a1b2c3d4-7777-4a1b-9c1d-000000000007",
+    "name": "Flan de Maracuyá Reserva",
+    "description": "Disponible solo por encargo especial.",
+    "image_url": "https://images.unsplash.com/photo-1587314168485-3236d6710815",
+    "slug": "flan-maracuya-reserva",
+    "is_private": true,
+    "price": 3000
+  }
+},
+{
+  "model": "web.flan",
+  "pk": 8,
+  "fields": {
+    "flan_uuid": "a1b2c3d4-8888-4a1b-9c1d-000000000008",
+    "name": "Flan de Almendras Premium",
+    "description": "Nuestra línea exclusiva, aún no lanzada al público.",
+    "image_url": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9",
+    "slug": "flan-almendras-premium",
+    "is_private": true,
+    "price": 3500
+  }
+},
+{
+  "model": "web.testimonio",
+  "pk": 1,
+  "fields": {
+    "customer_name": "Maria",
+    "comment": "Los mejores flanes que he probado en Santiago, la textura es increíble.",
+    "rating": 5
+  }
+},
+{
+  "model": "web.testimonio",
+  "pk": 2,
+  "fields": {
+    "customer_name": "Pedro Fuentes",
+    "comment": "Pedí el flan gourmet de café para un cumpleaños y todos quedaron encantados.",
+    "rating": 5
+  }
+},
+{
+  "model": "web.testimonio",
+  "pk": 3,
+  "fields": {
+    "customer_name": "Camila",
+    "comment": "Muy buena atención y entrega rápida, repetiré sin duda.",
+    "rating": 5
+  }
+}
+]

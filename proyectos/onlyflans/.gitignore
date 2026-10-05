@@ -1,0 +1,13 @@
+# Entornos virtuales
+env/
+venv/
+onlyflans/bin/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Django
+db.sqlite3
+.env
